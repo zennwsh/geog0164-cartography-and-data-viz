@@ -9,4 +9,4 @@ The scripts include:
 3. Text Only (for word count).txt - main text (excluding footnotes) of my submission writeup 
 4. UFO text analysis.R - data processing and text mining to investigate the most commonly reported shapes and colours of UFOs 
 
-All cartographic processes were performed directly in QGIS. 
+All mapmaking was performed directly in QGIS. 
